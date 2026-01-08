@@ -39,7 +39,7 @@ int main(void)
     /* Loop forever */
 	  unsigned int i = 0u;
 	  /* Loop forever */
-	  while (1)
+	  while (1)s
 	  {
 	  	i++;
 	  	if (i == 0xFFFFFFFFu)
